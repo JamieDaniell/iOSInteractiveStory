@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		5550D5921D23F754009452F4 /* InteractiveStory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5550D5911D23F754009452F4 /* InteractiveStory.swift */; };
+		5550D5941D2546FC009452F4 /* PageController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5550D5931D2546FC009452F4 /* PageController.swift */; };
 		55C8D7F21D147E540010AFFE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55C8D7F11D147E540010AFFE /* AppDelegate.swift */; };
 		55C8D7F41D147E540010AFFE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55C8D7F31D147E540010AFFE /* ViewController.swift */; };
 		55C8D7F71D147E540010AFFE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55C8D7F51D147E540010AFFE /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		5550D5911D23F754009452F4 /* InteractiveStory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InteractiveStory.swift; sourceTree = "<group>"; };
+		5550D5931D2546FC009452F4 /* PageController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PageController.swift; sourceTree = "<group>"; };
 		55C8D7EE1D147E540010AFFE /* InteractiveStory.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = InteractiveStory.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		55C8D7F11D147E540010AFFE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		55C8D7F31D147E540010AFFE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				55C8D7F11D147E540010AFFE /* AppDelegate.swift */,
 				55C8D7F31D147E540010AFFE /* ViewController.swift */,
+				5550D5931D2546FC009452F4 /* PageController.swift */,
 				5550D5911D23F754009452F4 /* InteractiveStory.swift */,
 				55C8D7F51D147E540010AFFE /* Main.storyboard */,
 				55C8D7F81D147E540010AFFE /* Assets.xcassets */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5550D5941D2546FC009452F4 /* PageController.swift in Sources */,
 				5550D5921D23F754009452F4 /* InteractiveStory.swift in Sources */,
 				55C8D7F41D147E540010AFFE /* ViewController.swift in Sources */,
 				55C8D7F21D147E540010AFFE /* AppDelegate.swift in Sources */,
