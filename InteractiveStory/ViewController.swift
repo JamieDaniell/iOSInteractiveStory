@@ -16,7 +16,6 @@ class ViewController: UIViewController , UITextFieldDelegate
     }
     
     @IBOutlet weak var nameTextField: UITextField!
-    
     @IBOutlet weak var textFieldBottomConstraint: NSLayoutConstraint!
     
     override func viewDidLoad()
